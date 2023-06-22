@@ -1,4 +1,4 @@
-# vd(d)umper
+# vd(d)ebug
 includes [redstonekasi's module dumper](https://gist.github.com/redstonekasi/2447f7657d8f2bb253eed4c482073e37) (stole)
 
 of course, **do not share dumped files with others.**
